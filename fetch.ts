@@ -33,6 +33,11 @@ export const MainChartData = [
     meta: 10,
     pontuacao: 5.8,
   },
+  {
+    name: "Jul",
+    meta: 10,
+    pontuacao: 5.8,
+  },
 
 ];
 
@@ -65,6 +70,11 @@ export const MainChartDataAtributos = [
   },
   {
     name: "Jun",
+    meta: 10,
+    pontuacao: 8.9,
+  },
+  {
+    name: "Jul",
     meta: 10,
     pontuacao: 8.9,
   },
@@ -906,10 +916,10 @@ export const dataMaturidadeDosDados = [
     "id": "9",
     "plataforma": "GLASSDOR",
     "categoria": "Taxa de Recomendação",
-    "notaEmpresa": "8,4",
+    "notaEmpresa": "7,7",
     "mercado": "9",
     "peso": "2",
-    "media": "9,30"
+    "media": "8,6"
   },
   {
     "id": "10",
@@ -1180,6 +1190,11 @@ export const linkedin = [
     pontuacao: 0,
     meta: 10
   },
+  {
+    name: 'Jul',
+    pontuacao: 0,
+    meta: 10
+  },
 ]
 export const youtube = [
   {
@@ -1212,6 +1227,11 @@ export const youtube = [
   },
   {
     name: 'Jun',
+    pontuacao: 10,
+    meta: 10
+  },
+  {
+    name: 'Jul',
     pontuacao: 10,
     meta: 10
   },
@@ -1250,6 +1270,11 @@ export const buscador = [
     pontuacao: 10,
     meta: 10
   },
+  {
+    name: 'Jul',
+    pontuacao: 10,
+    meta: 10
+  },
 ]
 export const evp = [
   {
@@ -1282,6 +1307,11 @@ export const evp = [
   },
   {
     name: 'Jun',
+    pontuacao: 10,
+    meta: 10
+  },
+  {
+    name: 'Jul',
     pontuacao: 10,
     meta: 10
   },
@@ -1320,6 +1350,11 @@ export const siteCarreiras = [
     pontuacao: 9.52,
     meta: 10
   },
+  {
+    name: 'Jul',
+    pontuacao: 9.52,
+    meta: 10
+  },
 ]
 export const indeed = [
   {
@@ -1352,6 +1387,11 @@ export const indeed = [
   },
   {
     name: 'Jun',
+    pontuacao: 10,
+    meta: 10
+  },
+  {
+    name: 'Jul',
     pontuacao: 10,
     meta: 10
   },
@@ -1390,6 +1430,11 @@ export const facebook = [
     pontuacao: 8.5,
     meta: 10
   },
+  {
+    name: 'Jul',
+    pontuacao: 8.5,
+    meta: 10
+  },
 ]
 export const glassdor = [
   {
@@ -1423,6 +1468,11 @@ export const glassdor = [
   {
     name: 'Jun',
     pontuacao: 9.43,
+    meta: 10
+  },
+  {
+    name: 'Jul',
+    pontuacao: 9.17,
     meta: 10
   },
 ]
@@ -1460,6 +1510,11 @@ export const instagram = [
     pontuacao: 8.33,
     meta: 10
   },
+  {
+    name: 'Jul',
+    pontuacao: 9.1,
+    meta: 10
+  },
 ]
 export const lp = [
   {
@@ -1495,6 +1550,11 @@ export const lp = [
     pontuacao: 10,
     meta: 10
   },
+  {
+    name: 'Jul',
+    pontuacao: 10,
+    meta: 10
+  },
 ]
 export const enps = [
   {
@@ -1527,6 +1587,11 @@ export const enps = [
   },
   {
     name: 'Jun',
+    pontuacao: 9.78,
+    meta: 10
+  },
+  {
+    name: 'Jul',
     pontuacao: 9.78,
     meta: 10
   },
@@ -1568,6 +1633,11 @@ export const MainChartDataEn = [
     meta: 10,
     pontuacao: 5.8,
   },
+  {
+    name: "Jul",
+    meta: 10,
+    pontuacao: 5.8,
+  },
 
 ];
 
@@ -1600,6 +1670,11 @@ export const MainChartDataAtributosEn = [
   },
   {
     name: "Jun",
+    meta: 10,
+    pontuacao: 8.9,
+  },
+  {
+    name: "Jul",
     meta: 10,
     pontuacao: 8.9,
   },
@@ -2332,7 +2407,7 @@ export const socialDataEn = [
       type: "Followers",
       count: "7k"
     },
-    posts: 205
+    posts: 219
   },
   {
     id: "2",
@@ -2441,10 +2516,10 @@ export const dataMaturidadeDosDadosEn = [
     "id": "9",
     "plataforma": "GLASSDOR",
     "categoria": "Recommendation Rate",
-    "notaEmpresa": "8.4",
+    "notaEmpresa": "7.7",
     "mercado": "9",
     "peso": "2",
-    "media": "9.30"
+    "media": "8.6"
   },
   {
     "id": "10",
@@ -2468,7 +2543,7 @@ export const dataMaturidadeDosDadosEn = [
     "id": "12",
     "plataforma": "Instagram",
     "categoria": "Engagement",
-    "notaEmpresa": "8.41",
+    "notaEmpresa": "9.70",
     "mercado": "3.8",
     "peso": "1",
     "media": "10.00"
@@ -2477,10 +2552,10 @@ export const dataMaturidadeDosDadosEn = [
     "id": "13",
     "plataforma": "Instagram",
     "categoria": "Posts per month",
-    "notaEmpresa": "4",
+    "notaEmpresa": "10",
     "mercado": "8",
     "peso": "1",
-    "media": "5.00"
+    "media": "7.2"
   },
   {
     "id": "14",
@@ -2642,7 +2717,7 @@ export const dataMediaMaturidadeMarcaEn = [
     "fonte": "FACEBOOK",
     "indicadores": "3",
     "peso": "1",
-    "media": "8,5"
+    "media": "8,8"
   },
   {
     "id": "7",
@@ -2663,14 +2738,14 @@ export const dataMediaMaturidadeMarcaEn = [
     "fonte": "GLASSDOOR",
     "indicadores": "3",
     "peso": "2",
-    "media": "9,4"
+    "media": "9,2"
   },
   {
     "id": "10",
     "fonte": "INSTAGRAM",
     "indicadores": "3",
     "peso": "1",
-    "media": "8,33"
+    "media": "9,1"
   },
   {
     "id": "11",
@@ -2750,6 +2825,11 @@ export const youtubeEn = [
     pontuacao: 10,
     meta: 10
   },
+  {
+    name: 'Jul',
+    pontuacao: 10,
+    meta: 10
+  },
 ]
 export const buscadorEn = [
   {
@@ -2782,6 +2862,11 @@ export const buscadorEn = [
   },
   {
     name: 'Jun',
+    pontuacao: 10,
+    meta: 10
+  },
+  {
+    name: 'Jul',
     pontuacao: 10,
     meta: 10
   },
@@ -2820,6 +2905,11 @@ export const evpEn = [
     pontuacao: 10,
     meta: 10
   },
+  {
+    name: 'Jul',
+    pontuacao: 10,
+    meta: 10
+  },
 ]
 export const siteCarreirasEn = [
   {
@@ -2855,6 +2945,11 @@ export const siteCarreirasEn = [
     pontuacao: 9.52,
     meta: 10
   },
+  {
+    name: 'Jul',
+    pontuacao: 9.52,
+    meta: 10
+  },
 ]
 export const indeedEn = [
   {
@@ -2885,6 +2980,11 @@ export const indeedEn = [
     pontuacao: 9.13,
     meta: 10
   },
+  {
+    name: 'Jun',
+    pontuacao: 10,
+    meta: 10
+  }, 
   {
     name: 'Jun',
     pontuacao: 10,
@@ -2925,6 +3025,11 @@ export const facebookEn = [
     pontuacao: 8.5,
     meta: 10
   },
+  {
+    name: 'Jul',
+    pontuacao: 8.5,
+    meta: 10
+  },
 ]
 export const glassdorEn = [
   {
@@ -2958,6 +3063,11 @@ export const glassdorEn = [
   {
     name: 'Jun',
     pontuacao: 9.43,
+    meta: 10
+  },
+  {
+    name: 'Jul',
+    pontuacao: 9.17,
     meta: 10
   },
 ]
@@ -2995,6 +3105,11 @@ export const instagramEn = [
     pontuacao: 8.33,
     meta: 10
   },
+  {
+    name: 'Jun',
+    pontuacao: 9.1,
+    meta: 10
+  },
 ]
 export const lpEn = [
   {
@@ -3030,6 +3145,11 @@ export const lpEn = [
     pontuacao: 10,
     meta: 10
   },
+  {
+    name: 'Jul',
+    pontuacao: 10,
+    meta: 10
+  },
 ]
 export const enpsEn = [
   {
@@ -3062,6 +3182,11 @@ export const enpsEn = [
   },
   {
     name: 'Jun',
+    pontuacao: 9.78,
+    meta: 10
+  },
+  {
+    name: 'Jul',
     pontuacao: 9.78,
     meta: 10
   },
