@@ -35,7 +35,7 @@ const DashboardPage = () => {
                             <div className="w-full lg:w-2/5">
                                 <Card className='p-4 min-w-[250px] min-h-[250px] flex flex-col justify-center items-center'>
                                     <h2 className='font-semibold text-xl text-center'>MATURIDADE DA MARCA EMPREGADORA ATUAL</h2>
-                                    <Speedometer value={580}  language="pt" />
+                                    <Speedometer value={550}  language="pt" />
                                 </Card>
                             </div>
                         </div>

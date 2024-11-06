@@ -38,6 +38,21 @@ export const MainChartData = [
     meta: 10,
     pontuacao: 5.8,
   },
+  {
+    name: "Ago",
+    meta: 10,
+    pontuacao: 5.8,
+  },
+  {
+    name: "Set", 
+    meta: 10,
+    pontuacao: 5.7,
+  },
+  {
+    name: "Out",
+    meta: 10,
+    pontuacao: 5.5,
+  }
 
 ];
 
@@ -78,6 +93,21 @@ export const MainChartDataAtributos = [
     meta: 10,
     pontuacao: 8.9,
   },
+  {
+    name: "Ago",
+    meta: 10,
+    pontuacao: 8.9,
+  },
+  {
+    name: "Set",
+    meta: 10,
+    pontuacao: 8.9,
+  },
+  {
+    name: "Out",
+    meta: 10,
+    pontuacao: 8.9,
+  }
 
 ];
 
@@ -807,7 +837,7 @@ export const socialData = [
       type: "Seguidores",
       count: "7k"
     },
-    posts: 205
+    posts: 235
   },
   {
     id: "2",
@@ -833,7 +863,7 @@ export const socialData = [
       type: "Visualizações",
       count: "75m"
     },
-    posts: 32
+    posts: 33
   },
 
 ]
@@ -916,19 +946,19 @@ export const dataMaturidadeDosDados = [
     "id": "9",
     "plataforma": "GLASSDOR",
     "categoria": "Taxa de Recomendação",
-    "notaEmpresa": "7,7",
+    "notaEmpresa": "8,4",
     "mercado": "9",
     "peso": "2",
-    "media": "8,6"
+    "media": "9,3"
   },
   {
     "id": "10",
     "plataforma": "GLASSDOR",
     "categoria": "Total de Avaliações",
-    "notaEmpresa": "2,3",
+    "notaEmpresa": "2,4",
     "mercado": "2,5",
     "peso": "2",
-    "media": "9,20"
+    "media": "9,6"
   },
   {
     "id": "11",
@@ -988,10 +1018,10 @@ export const dataMaturidadeDosDados = [
     "id": "17",
     "plataforma": "Facebook",
     "categoria": "Posts por mês",
-    "notaEmpresa": "5",
+    "notaEmpresa": "6",
     "mercado": "8",
     "peso": "1",
-    "media": "6,5"
+    "media": "7,5"
   },
   {
     "id": "18",
@@ -1165,7 +1195,7 @@ export const linkedin = [
   {
     name: 'Fev',
     pontuacao: 0,
-    meta: 10
+    meta: 0
   },
 
   {
@@ -1192,6 +1222,21 @@ export const linkedin = [
   },
   {
     name: 'Jul',
+    pontuacao: 0,
+    meta: 10
+  },
+  {
+    name: 'Ago',
+    pontuacao: 0,
+    meta: 10
+  },
+  {
+    name: 'Set',
+    pontuacao: 0,
+    meta: 10
+  },
+  {
+    name: 'Out',
     pontuacao: 0,
     meta: 10
   },
@@ -1235,6 +1280,21 @@ export const youtube = [
     pontuacao: 10,
     meta: 10
   },
+  {
+    name: 'Ago',
+    pontuacao: 10,
+    meta: 10
+  },
+  {
+    name: 'Set',
+    pontuacao: 10,
+    meta: 10
+  },
+  {
+    name: 'Out',
+    pontuacao: 10,
+    meta: 10
+  },
 ]
 export const buscador = [
   {
@@ -1275,6 +1335,21 @@ export const buscador = [
     pontuacao: 10,
     meta: 10
   },
+  {
+    name: 'Ago',
+    pontuacao: 10,
+    meta: 10
+  },
+  {
+    name: 'Set',
+    pontuacao: 10,
+    meta: 10
+  },
+  {
+    name: 'Out',
+    pontuacao: 10,
+    meta: 10
+  }
 ]
 export const evp = [
   {
@@ -1315,6 +1390,21 @@ export const evp = [
     pontuacao: 10,
     meta: 10
   },
+  {
+    name: 'Ago',
+    pontuacao: 10,
+    meta: 10
+  },
+  {
+    name: 'Set',
+    pontuacao: 10,
+    meta: 10
+  },
+  {
+    name: 'Out',
+    pontuacao: 10,
+    meta: 10
+  }
 ]
 export const siteCarreiras = [
   {
@@ -1355,6 +1445,21 @@ export const siteCarreiras = [
     pontuacao: 9.52,
     meta: 10
   },
+  {
+    name: 'Ago',
+    pontuacao: 9.52,
+    meta: 10
+  },
+  {
+    name: 'Set',
+    pontuacao: 9.52,
+    meta: 10
+  },
+  {
+    name: 'Out',
+    pontuacao: 9.52,
+    meta: 10
+  }
 ]
 export const indeed = [
   {
@@ -1395,6 +1500,21 @@ export const indeed = [
     pontuacao: 10,
     meta: 10
   },
+  {
+    name: 'Ago',
+    pontuacao: 10,
+    meta: 10
+  },
+  {
+    name: 'Set',
+    pontuacao: 10,
+    meta: 10
+  },
+  {
+    name: 'Out',
+    pontuacao: 10,
+    meta: 10
+  }
 ]
 export const facebook = [
   {
@@ -1435,6 +1555,21 @@ export const facebook = [
     pontuacao: 8.5,
     meta: 10
   },
+  {
+    name: 'Ago',
+    pontuacao: 8.5,
+    meta: 10
+  },
+  {
+    name: 'Set',
+    pontuacao: 8.5,
+    meta: 10
+  },
+  {
+    name: 'Out',
+    pontuacao: 8.5,
+    meta: 10
+  }
 ]
 export const glassdor = [
   {
@@ -1475,6 +1610,21 @@ export const glassdor = [
     pontuacao: 9.17,
     meta: 10
   },
+  {
+    name: 'Ago',
+    pontuacao: 9.17,
+    meta: 10
+  },
+  {
+    name: 'Set',
+    pontuacao: 9.17,
+    meta: 10
+  },
+  {
+    name: 'Out',
+    pontuacao: 9.17,
+    meta: 10
+  }
 ]
 export const instagram = [
   {
@@ -1515,6 +1665,21 @@ export const instagram = [
     pontuacao: 9.1,
     meta: 10
   },
+  {
+    name: 'Ago',
+    pontuacao: 9.1,
+    meta: 10
+  },
+  {
+    name: 'Set',
+    pontuacao: 9.1,
+    meta: 10
+  },
+  {
+    name: 'Out',
+    pontuacao: 9.1,
+    meta: 10
+  }
 ]
 export const lp = [
   {
@@ -1555,6 +1720,21 @@ export const lp = [
     pontuacao: 10,
     meta: 10
   },
+  {
+    name: 'Ago',
+    pontuacao: 10,
+    meta: 10
+  },
+  {
+    name: 'Set',
+    pontuacao: 10,
+    meta: 10
+  },
+  {
+    name: 'Out',
+    pontuacao: 10,
+    meta: 10
+  }
 ]
 export const enps = [
   {
@@ -1595,6 +1775,21 @@ export const enps = [
     pontuacao: 9.78,
     meta: 10
   },
+  {
+    name: 'Ago',
+    pontuacao: 9.78,
+    meta: 10
+  },
+  {
+    name: 'Set',
+    pontuacao: 9.78,
+    meta: 10
+  },
+  {
+    name: 'Out',
+    pontuacao: 9.78,
+    meta: 10
+  }
 ]
 
 
@@ -1638,6 +1833,21 @@ export const MainChartDataEn = [
     meta: 10,
     pontuacao: 5.8,
   },
+  {
+    name: "Aug",
+    meta: 10,
+    pontuacao: 5.8,
+  },
+  {
+    name: "Sep",
+    meta: 10,
+    pontuacao: 5.7,
+  },
+  {
+    name: "Oct", 
+    meta: 10,
+    pontuacao: 5.5,
+  },
 
 ];
 
@@ -1675,6 +1885,21 @@ export const MainChartDataAtributosEn = [
   },
   {
     name: "Jul",
+    meta: 10,
+    pontuacao: 8.9,
+  },
+  {
+    name: "Aug", 
+    meta: 10,
+    pontuacao: 8.9,
+  },
+  {
+    name: "Sep",
+    meta: 10,
+    pontuacao: 8.9,
+  },
+  {
+    name: "Oct",
     meta: 10,
     pontuacao: 8.9,
   },
@@ -2444,7 +2669,7 @@ export const dataMaturidadeDosDadosEn = [
     "id": "1",
     "plataforma": "LINKEDIN",
     "categoria": "Posts per month",
-    "notaEmpresa": "0",
+    "notaEmpresa": dataMaturidadeDosDados[0].notaEmpresa,
     "mercado": "8",
     "peso": "2",
     "media": "0.00"
@@ -2759,435 +2984,602 @@ export const dataMediaMaturidadeMarcaEn = [
 export const linkedinEn = [
   {
     name: 'Jan',
-    pontuacao: 0,
+    pontuacao: linkedin[0].pontuacao,
     meta: 10
   },
   {
-    name: 'Feb',
-    pontuacao: 0,
+    name: 'Feb', 
+    pontuacao: linkedin[1].pontuacao,
     meta: 10
   },
-
   {
     name: 'Mar',
-    pontuacao: 0,
+    pontuacao: linkedin[2].pontuacao, 
     meta: 10
   },
-
   {
     name: 'Apr',
-    pontuacao: 0,
+    pontuacao: linkedin[3].pontuacao,
     meta: 10
   },
-
   {
     name: 'May',
-    pontuacao: 0,
+    pontuacao: linkedin[4].pontuacao,
     meta: 10
   },
   {
     name: 'Jun',
-    pontuacao: 0,
+    pontuacao: linkedin[5].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Jul',
+    pontuacao: linkedin[6].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Aug',
+    pontuacao: linkedin[7].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Sep',
+    pontuacao: linkedin[8].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Oct',
+    pontuacao: linkedin[9].pontuacao,
     meta: 10
   },
 ]
 export const youtubeEn = [
   {
     name: 'Jan',
-    pontuacao: 8.25,
+    pontuacao: youtube[0].pontuacao,
     meta: 10
   },
   {
     name: 'Feb',
-    pontuacao: 8.25,
+    pontuacao: youtube[1].pontuacao,
     meta: 10
   },
 
   {
     name: 'Mar',
-    pontuacao: 8.25,
+    pontuacao: youtube[2].pontuacao,
     meta: 10
   },
 
   {
     name: 'Apr',
-    pontuacao: 8.25,
+    pontuacao: youtube[3].pontuacao,
     meta: 10
   },
 
   {
     name: 'May',
-    pontuacao: 8.25,
+    pontuacao: youtube[4].pontuacao,
     meta: 10
   },
   {
     name: 'Jun',
-    pontuacao: 10,
+    pontuacao: youtube[5].pontuacao,
     meta: 10
   },
   {
     name: 'Jul',
-    pontuacao: 10,
+    pontuacao: youtube[6].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Aug', 
+    pontuacao: youtube[7].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Sep',
+    pontuacao: youtube[8].pontuacao, 
+    meta: 10
+  },
+  {
+    name: 'Oct',
+    pontuacao: youtube[9].pontuacao,
     meta: 10
   },
 ]
 export const buscadorEn = [
   {
     name: 'Jan',
-    pontuacao: 0,
+    pontuacao: buscador[0].pontuacao,
     meta: 10
   },
   {
     name: 'Feb',
-    pontuacao: 0,
+    pontuacao: buscador[1].pontuacao,
     meta: 10
   },
 
   {
     name: 'Mar',
-    pontuacao: 0,
+    pontuacao: buscador[2].pontuacao,
     meta: 10
   },
 
   {
     name: 'Apr',
-    pontuacao: 0,
+    pontuacao: buscador[3].pontuacao,
     meta: 10
   },
 
   {
     name: 'May',
-    pontuacao: 10,
+    pontuacao: buscador[4].pontuacao,
     meta: 10
   },
   {
     name: 'Jun',
-    pontuacao: 10,
+    pontuacao: buscador[5].pontuacao,
     meta: 10
   },
   {
     name: 'Jul',
-    pontuacao: 10,
+    pontuacao: buscador[6].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Aug',
+    pontuacao: buscador[7].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Sep',
+    pontuacao: buscador[8].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Oct',
+    pontuacao: buscador[9].pontuacao,
     meta: 10
   },
 ]
 export const evpEn = [
   {
     name: 'Jan',
-    pontuacao: 10,
+    pontuacao: evp[0].pontuacao,
     meta: 10
   },
   {
     name: 'Feb',
-    pontuacao: 10,
+    pontuacao: evp[1].pontuacao,
     meta: 10
   },
 
   {
     name: 'Mar',
-    pontuacao: 10,
+    pontuacao: evp[2].pontuacao,
     meta: 10
   },
 
   {
     name: 'Apr',
-    pontuacao: 10,
+    pontuacao: evp[3].pontuacao,
     meta: 10
   },
 
   {
     name: 'May',
-    pontuacao: 10,
+    pontuacao: evp[4].pontuacao,
     meta: 10
   },
   {
     name: 'Jun',
-    pontuacao: 10,
+    pontuacao: evp[5].pontuacao,
     meta: 10
   },
   {
     name: 'Jul',
-    pontuacao: 10,
+    pontuacao: evp[6].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Aug',
+    pontuacao: evp[7].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Sep',
+    pontuacao: evp[8].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Oct',
+    pontuacao: evp[9].pontuacao,
     meta: 10
   },
 ]
 export const siteCarreirasEn = [
   {
     name: 'Jan',
-    pontuacao: 9.19,
+    pontuacao: siteCarreiras[0].pontuacao,
     meta: 10
   },
   {
     name: 'Feb',
-    pontuacao: 9.19,
+    pontuacao: siteCarreiras[1].pontuacao,
     meta: 10
   },
 
   {
     name: 'Mar',
-    pontuacao: 9.19,
+    pontuacao: siteCarreiras[2].pontuacao,
     meta: 10
   },
 
   {
     name: 'Apr',
-    pontuacao: 9.19,
+    pontuacao: siteCarreiras[3].pontuacao,
     meta: 10
   },
 
   {
     name: 'May',
-    pontuacao: 9.50,
+    pontuacao: siteCarreiras[4].pontuacao,
     meta: 10
   },
   {
     name: 'Jun',
-    pontuacao: 9.52,
+    pontuacao: siteCarreiras[5].pontuacao,
     meta: 10
   },
   {
     name: 'Jul',
-    pontuacao: 9.52,
+    pontuacao: siteCarreiras[6].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Aug',
+    pontuacao: siteCarreiras[7].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Sep',
+    pontuacao: siteCarreiras[8].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Oct',
+    pontuacao: siteCarreiras[9].pontuacao,
     meta: 10
   },
 ]
 export const indeedEn = [
   {
     name: 'Jan',
-    pontuacao: 9.12,
+    pontuacao: indeed[0].pontuacao,
     meta: 10
   },
   {
     name: 'Feb',
-    pontuacao: 9.12,
+    pontuacao: indeed[1].pontuacao,
     meta: 10
   },
 
   {
     name: 'Mar',
-    pontuacao: 9.12,
+    pontuacao: indeed[2].pontuacao,
     meta: 10
   },
 
   {
     name: 'Apr',
-    pontuacao: 9.12,
+    pontuacao: indeed[3].pontuacao,
     meta: 10
   },
 
   {
     name: 'May',
-    pontuacao: 9.13,
+    pontuacao: indeed[4].pontuacao,
     meta: 10
   },
   {
     name: 'Jun',
-    pontuacao: 10,
+    pontuacao: indeed[5].pontuacao,
     meta: 10
-  }, 
+  },
   {
-    name: 'Jun',
-    pontuacao: 10,
+    name: 'Jul',
+    pontuacao: indeed[6].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Aug',
+    pontuacao: indeed[7].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Sep',
+    pontuacao: indeed[8].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Oct',
+    pontuacao: indeed[9].pontuacao,
     meta: 10
   },
 ]
 export const facebookEn = [
   {
     name: 'Jan',
-    pontuacao: 7.87,
+    pontuacao: facebook[0].pontuacao,
     meta: 10
   },
   {
     name: 'Feb',
-    pontuacao: 7.87,
+    pontuacao: facebook[1].pontuacao,
     meta: 10
   },
 
   {
     name: 'Mar',
-    pontuacao: 9.17,
+    pontuacao: facebook[2].pontuacao,
     meta: 10
   },
 
   {
     name: 'Apr',
-    pontuacao: 7.39,
+    pontuacao: facebook[3].pontuacao,
     meta: 10
   },
 
   {
     name: 'May',
-    pontuacao: 8.83,
+    pontuacao: facebook[4].pontuacao,
     meta: 10
   },
   {
     name: 'Jun',
-    pontuacao: 8.5,
+    pontuacao: facebook[5].pontuacao,
     meta: 10
   },
   {
     name: 'Jul',
-    pontuacao: 8.5,
+    pontuacao: facebook[6].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Aug',
+    pontuacao: facebook[7].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Sep',
+    pontuacao: facebook[8].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Oct',
+    pontuacao: facebook[9].pontuacao,
     meta: 10
   },
 ]
 export const glassdorEn = [
   {
     name: 'Jan',
-    pontuacao: 7.93,
+    pontuacao: glassdor[0].pontuacao,
     meta: 10
   },
   {
     name: 'Feb',
-    pontuacao: 7.96,
+    pontuacao: glassdor[1].pontuacao,
     meta: 10
   },
 
   {
     name: 'Mar',
-    pontuacao: 7.99,
+    pontuacao: glassdor[2].pontuacao,
     meta: 10
   },
 
   {
     name: 'Apr',
-    pontuacao: 8.03,
+    pontuacao: glassdor[3].pontuacao,
     meta: 10
   },
 
   {
     name: 'May',
-    pontuacao: 8.04,
+    pontuacao: glassdor[4].pontuacao,
     meta: 10
   },
   {
     name: 'Jun',
-    pontuacao: 9.43,
+    pontuacao: glassdor[5].pontuacao,
     meta: 10
   },
   {
     name: 'Jul',
-    pontuacao: 9.17,
+    pontuacao: glassdor[6].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Aug',
+    pontuacao: glassdor[7].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Sep',
+    pontuacao: glassdor[8].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Oct',
+    pontuacao: glassdor[9].pontuacao,
     meta: 10
   },
 ]
 export const instagramEn = [
   {
     name: 'Jan',
-    pontuacao: 7.87,
+    pontuacao: instagram[0].pontuacao,
     meta: 10
   },
   {
     name: 'Feb',
-    pontuacao: 7.87,
+    pontuacao: instagram[1].pontuacao,
     meta: 10
   },
 
   {
     name: 'Mar',
-    pontuacao: 7.15,
+    pontuacao: instagram[2].pontuacao,
     meta: 10
   },
 
   {
     name: 'Apr',
-    pontuacao: 7.39,
+    pontuacao: instagram[3].pontuacao,
     meta: 10
   },
 
   {
     name: 'May',
-    pontuacao: 5.36,
+    pontuacao: instagram[4].pontuacao,
     meta: 10
   },
   {
     name: 'Jun',
-    pontuacao: 8.33,
+    pontuacao: instagram[5].pontuacao,
     meta: 10
   },
   {
-    name: 'Jun',
-    pontuacao: 9.1,
+    name: 'Jul',
+    pontuacao: instagram[6].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Aug',
+    pontuacao: instagram[7].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Sep',
+    pontuacao: instagram[8].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Oct',
+    pontuacao: instagram[9].pontuacao,
     meta: 10
   },
 ]
 export const lpEn = [
   {
     name: 'Jan',
-    pontuacao: 8.75,
+    pontuacao: lp[0].pontuacao,
     meta: 10
   },
   {
     name: 'Feb',
-    pontuacao: 8.75,
+    pontuacao: lp[1].pontuacao,
     meta: 10
   },
 
   {
     name: 'Mar',
-    pontuacao: 8.75,
+    pontuacao: lp[2].pontuacao,
     meta: 10
   },
 
   {
     name: 'Apr',
-    pontuacao: 8.75,
+    pontuacao: lp[3].pontuacao,
     meta: 10
   },
 
   {
     name: 'May',
-    pontuacao: 8.75,
+    pontuacao: lp[4].pontuacao,
     meta: 10
   },
   {
     name: 'Jun',
-    pontuacao: 10,
+    pontuacao: lp[5].pontuacao,
     meta: 10
   },
   {
     name: 'Jul',
-    pontuacao: 10,
+    pontuacao: lp[6].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Aug',
+    pontuacao: lp[7].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Sep',
+    pontuacao: lp[8].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Oct',
+    pontuacao: lp[9].pontuacao,
     meta: 10
   },
 ]
 export const enpsEn = [
   {
     name: 'Jan',
-    pontuacao: 9.78,
+    pontuacao: enps[0].pontuacao,
     meta: 10
   },
   {
     name: 'Feb',
-    pontuacao: 9.78,
+    pontuacao: enps[1].pontuacao,
     meta: 10
   },
 
   {
     name: 'Mar',
-    pontuacao: 9.78,
+    pontuacao: enps[2].pontuacao,
     meta: 10
   },
 
   {
     name: 'Apr',
-    pontuacao: 9.78,
+    pontuacao: enps[3].pontuacao,
     meta: 10
   },
 
   {
     name: 'May',
-    pontuacao: 9.78,
+    pontuacao: enps[4].pontuacao,
     meta: 10
   },
   {
     name: 'Jun',
-    pontuacao: 9.78,
+    pontuacao: enps[5].pontuacao,
     meta: 10
   },
   {
     name: 'Jul',
-    pontuacao: 9.78,
+    pontuacao: enps[6].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Aug',
+    pontuacao: enps[7].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Sep',
+    pontuacao: enps[8].pontuacao,
+    meta: 10
+  },
+  {
+    name: 'Oct',
+    pontuacao: enps[9].pontuacao,
     meta: 10
   },
 ]
