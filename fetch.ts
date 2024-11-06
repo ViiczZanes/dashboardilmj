@@ -2632,7 +2632,7 @@ export const socialDataEn = [
       type: "Followers",
       count: "7k"
     },
-    posts: 219
+    posts: 235
   },
   {
     id: "2",
@@ -2658,7 +2658,7 @@ export const socialDataEn = [
       type: "Views",
       count: "75m"
     },
-    posts: 32
+    posts: 33
   },
 
 ]
