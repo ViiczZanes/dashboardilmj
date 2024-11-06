@@ -46,12 +46,12 @@ export const MainChartData = [
   {
     name: "Set", 
     meta: 10,
-    pontuacao: 5.7,
+    pontuacao: 5.8,
   },
   {
     name: "Out",
     meta: 10,
-    pontuacao: 5.5,
+    pontuacao: 5.7,
   }
 
 ];
@@ -1667,17 +1667,17 @@ export const instagram = [
   },
   {
     name: 'Ago',
-    pontuacao: 9.1,
+    pontuacao: 8.6,
     meta: 10
   },
   {
     name: 'Set',
-    pontuacao: 9.1,
+    pontuacao: 8.6,
     meta: 10
   },
   {
     name: 'Out',
-    pontuacao: 9.1,
+    pontuacao: 7.6,
     meta: 10
   }
 ]
@@ -1841,12 +1841,12 @@ export const MainChartDataEn = [
   {
     name: "Sep",
     meta: 10,
-    pontuacao: 5.7,
+    pontuacao: 5.8,
   },
   {
     name: "Oct", 
     meta: 10,
-    pontuacao: 5.5,
+    pontuacao: 5.7,
   },
 
 ];
